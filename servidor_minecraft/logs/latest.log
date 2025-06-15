@@ -105,3 +105,7 @@
 [15Jun2025 19:30:51.616] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
 [15Jun2025 19:31:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 2apjnas to NoobToMC
 [15Jun2025 19:33:12.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Ashes 'n Bones]
+[15Jun2025 19:38:08.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[15Jun2025 19:38:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[15Jun2025 19:38:36.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[15Jun2025 19:38:36.612] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
