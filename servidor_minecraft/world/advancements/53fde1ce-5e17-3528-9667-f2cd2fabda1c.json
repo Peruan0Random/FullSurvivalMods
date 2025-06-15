@@ -26,6 +26,7 @@
       "minecraft:river": "2025-06-04 22:38:02 +0000",
       "minecraft:stony_shore": "2025-06-05 00:06:07 +0000",
       "minecraft:snowy_taiga": "2025-06-04 22:32:44 +0000",
+      "minecraft:dripstone_caves": "2025-06-15 18:55:55 +0000",
       "minecraft:forest": "2025-06-04 22:33:13 +0000",
       "minecraft:ocean": "2025-06-05 00:07:55 +0000",
       "minecraft:flower_forest": "2025-06-15 18:40:43 +0000",
@@ -1290,6 +1291,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-15 18:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-15 18:37:39 +0000"
@@ -1539,6 +1546,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-15 18:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 18:52:59 +0000"
     },
     "done": true
   },
