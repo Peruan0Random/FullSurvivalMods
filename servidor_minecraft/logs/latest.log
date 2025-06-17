@@ -112,3 +112,26 @@
 [17Jun2025 22:33:43.803] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 364 Y: 81 Z: 2354
 [17Jun2025 22:33:43.814] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
 [17Jun2025 22:33:51.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56ffce00[id=<null>,name=NoobToMC,properties={},legacy=false] (/127.92.224.230:55011) lost connection: Disconnected
+[17Jun2025 22:34:30.587] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49a732ba[id=<null>,name=NoobToMC,properties={},legacy=false] (/127.92.224.230:43061) lost connection: Disconnected
+[17Jun2025 22:34:37.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.92.224.230:34789] logged in with entity id 16050 at (179.62311935872896, 72.16610926093821, 2277.133929409696)
+[17Jun2025 22:34:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[17Jun2025 22:35:07.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
+[17Jun2025 22:35:07.398] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_17.06.2025-22.35.07.dat
+[17Jun2025 22:35:07.398] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 168 Y: 73 Z: 2305
+[17Jun2025 22:35:07.406] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[17Jun2025 22:35:45.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported NoobToMC to 2apjnas
+[17Jun2025 22:35:55.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has reached the goal [Chain Death]
+[17Jun2025 22:35:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was turned into KFC by Fire Dragon
+[17Jun2025 22:35:55.748] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[17Jun2025 22:36:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas walked into fire whilst fighting Fire Dragon
+[17Jun2025 22:36:05.405] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_17.06.2025-22.36.05.dat
+[17Jun2025 22:36:05.406] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 209 Y: 85 Z: 2195
+[17Jun2025 22:36:05.408] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[17Jun2025 22:36:43.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17310, l='ServerLevel[world]', x=219.54, y=78.00, z=2212.50] died, message: 'Villager burned to death'
+[17Jun2025 22:36:43.888] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17311, l='ServerLevel[world]', x=228.68, y=79.77, z=2220.18] died, message: 'Villager burned to death'
+[17Jun2025 22:36:59.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported NoobToMC to 2apjnas
+[17Jun2025 22:41:14.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Take Aim]
+[17Jun2025 22:43:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas fell from a high place
+[17Jun2025 22:43:16.667] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_17.06.2025-22.43.16.dat
+[17Jun2025 22:43:16.668] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 170 Y: -49 Z: 2345
+[17Jun2025 22:43:16.669] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
