@@ -86,3 +86,29 @@
 [17Jun2025 22:12:11.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
 [17Jun2025 22:17:44.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
 [17Jun2025 22:17:44.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[17Jun2025 22:23:53.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.187.111.166:47637] logged in with entity id 8821 at (-71.69999998807907, 57.0, 2488.625051815848)
+[17Jun2025 22:23:53.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[17Jun2025 22:27:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> sssss
+[17Jun2025 22:28:56.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [My Name is Nobody]
+[17Jun2025 22:29:09.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has reached the goal [Bone Crusher]
+[17Jun2025 22:30:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
+[17Jun2025 22:30:44.805] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_17.06.2025-22.30.44.dat
+[17Jun2025 22:30:44.808] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 233 Y: 94 Z: 2353
+[17Jun2025 22:30:44.829] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[17Jun2025 22:30:46.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [The Most Useful Key]
+[17Jun2025 22:30:52.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has reached the goal [A Fast Comeback]
+[17Jun2025 22:32:04.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[17Jun2025 22:32:04.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[17Jun2025 22:32:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Cyclops
+[17Jun2025 22:32:13.893] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_17.06.2025-22.32.13.dat
+[17Jun2025 22:32:13.895] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 354 Y: 82 Z: 2355
+[17Jun2025 22:32:13.909] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[17Jun2025 22:32:18.538] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34c3fde2[id=<null>,name=NoobToMC,properties={},legacy=false] (/127.92.224.230:59823) lost connection: Disconnected
+[17Jun2025 22:32:57.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Cyclops
+[17Jun2025 22:32:57.693] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[17Jun2025 22:33:20.192] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ed8698b[id=<null>,name=NoobToMC,properties={},legacy=false] (/127.92.224.230:60925) lost connection: Disconnected
+[17Jun2025 22:33:43.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Cyclops
+[17Jun2025 22:33:43.801] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_17.06.2025-22.33.43.dat
+[17Jun2025 22:33:43.803] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 364 Y: 81 Z: 2354
+[17Jun2025 22:33:43.814] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[17Jun2025 22:33:51.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56ffce00[id=<null>,name=NoobToMC,properties={},legacy=false] (/127.92.224.230:55011) lost connection: Disconnected
