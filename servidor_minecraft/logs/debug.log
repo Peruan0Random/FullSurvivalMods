@@ -2882,3 +2882,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jun2025 22:43:16.669] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
 [17Jun2025 22:44:28.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jun2025 22:44:28.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 22:49:28.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 22:49:28.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 22:54:28.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 22:54:28.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 22:59:28.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 22:59:28.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 23:02:40.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by 2apjnas
+[17Jun2025 23:02:40.751] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_17.06.2025-23.02.40.dat
+[17Jun2025 23:02:40.751] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 105 Y: -57 Z: 2453
+[17Jun2025 23:02:40.753] [Server thread/DEBUG] [tombstone/]: A new grave of the player NoobToMC was created at position [x:105, y:-57, z:2452, dim:minecraft:overworld]
+[17Jun2025 23:02:40.754] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[17Jun2025 23:03:33.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported NoobToMC to 2apjnas
+[17Jun2025 23:04:28.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 23:04:28.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1068,7 +1068,8 @@
       "minecraft:witch": "2025-06-17 22:07:01 +0000",
       "minecraft:husk": "2025-06-16 21:56:17 +0000",
       "minecraft:enderman": "2025-06-15 18:37:36 +0000",
-      "minecraft:zombie": "2025-06-04 23:41:01 +0000"
+      "minecraft:zombie": "2025-06-04 23:41:01 +0000",
+      "minecraft:zombie_villager": "2025-06-17 22:50:54 +0000"
     },
     "done": false
   },
@@ -2446,15 +2447,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-06-17 23:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-06-17 22:36:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-17 22:54:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-06-17 22:28:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-17 23:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-06-17 23:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-06-17 23:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-17 23:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-06-17 23:03:49 +0000"
     },
     "done": true
   },
@@ -2470,6 +2513,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-06-17 23:03:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-17 22:30:52 +0000"
@@ -2479,6 +2528,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-06-17 22:30:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-06-17 23:03:49 +0000"
     },
     "done": true
   },
